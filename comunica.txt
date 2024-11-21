@@ -4,3 +4,5 @@ Exception in thread "main" java.nio.file.InvalidPathException: Illegal char <*> 
 
 
 javac -d src/main/webapp/WEB-INF/classes src/main/java/com/miapp/**/*.java
+
+src\main\java\com\miapp\backing\UsuarioBacking.java:4: error: package javax.faces.bean does not existimport javax.faces.bean.ManagedBean;
