@@ -1,0 +1,1 @@
+Exception in thread "main" java.nio.file.InvalidPathException: Illegal char <*> at index 24: src/main/java/com/miapp/**/*.java
